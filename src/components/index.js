@@ -1,0 +1,10 @@
+export { default as Home } from "./Home";
+export { default as LogIn } from "./LogIn";
+export { default as Message } from "./Message";
+export { default as NavBar } from "./NavBar";
+export { default as NewPost } from "./NewPost";
+export { default as Profile } from "./Profile";
+export { default as PostCard } from "./SinglePost";
+export { default as Register } from "./Register";
+export { default as EditPost } from "./EditPost";
+export { default as SingleMessage } from "./SingleMessage";
